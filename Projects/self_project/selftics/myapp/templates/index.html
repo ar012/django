@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My View</title>	
+	</head>	
+	<body>
+		<h1>Hello User, Welcome to Django!!!</h1>
+		
+		{% for message in messages %}
+			<p> {{ message.text}} </p>
+		{% endfor %}
+	</body>
+</html>

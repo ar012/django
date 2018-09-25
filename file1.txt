@@ -1,4 +1,0 @@
-welcome to git learning
-we will java,python, c and c+
-everything is well
-but somthing is wrong

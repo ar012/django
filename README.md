@@ -1,4 +1,3 @@
-# python-repo
-# test repo for java program
-# my git repo for multiple remote
-# a conflict showed and resolved
+# Django 2 with Python 3 Projects
+# Django 1.11 with Python 3 Projects
+# Django 1.11 with Python 2 Projects
